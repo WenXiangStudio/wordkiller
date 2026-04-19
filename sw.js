@@ -6,8 +6,8 @@ const ASSETS_TO_CACHE = [
   './',
   './vocab-app.html',
   './manifest.json',
-  './pwa/icon-192.jpg',
-  './pwa/icon-512.jpg'
+  './icon-192.jpg',
+  './icon-512.jpg'
 ];
 
 // 安装：预缓存核心资源
